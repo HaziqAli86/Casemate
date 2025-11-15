@@ -1,0 +1,5 @@
+.env
+*.env
+.env.*
+Backend/.env
+casemate-frontend/.env.local
